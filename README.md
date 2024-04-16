@@ -1,3 +1,3 @@
 # CS361-Project
 
-TBD
+TBD (To be decided)
